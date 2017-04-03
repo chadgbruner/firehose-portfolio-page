@@ -1,0 +1,43 @@
+body {
+  background: url('bg-road-bw.jpg') no-repeat center center fixed;
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  background-size: cover;
+  font-family: 'Muli', sans-serif;
+}
+h1 {
+  color: ;
+  font-size: 50px;
+  font-weight: normal;
+  margin-bottom: 0;
+  font-family: 'Space Mono', sans-serif;
+}
+h2 {
+  color: ;
+  font-size: 18px;
+  font-weight: normal;
+  margin-top: 0;
+  font-family: 'Space Mono', sans-serif;
+}
+.bio {
+  color: white;
+  font-size: 14px;
+ }
+.me {
+  height: 200px;
+  border-radius: 10px;
+  border-style: solid;
+  margin-top: 40px;
+}
+.about {
+  width: 40%;
+  margin-left: auto;
+  margin-right: auto;
+  text-align: center;
+}
+.grey {
+  height: 3px;
+  background-color: #363636;
+  border: none;
+}
