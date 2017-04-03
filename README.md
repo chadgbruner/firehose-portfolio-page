@@ -1,2 +1,2 @@
-# firehouse-portfolio-page
-Portfolio page project for Firehouse
+# firehose-portfolio-page
+Portfolio page project for Firehose
